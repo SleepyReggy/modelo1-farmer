@@ -6,7 +6,10 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        
+        <span>Informe de Datos</span>
+        <div className="superior">
+
+        </div>
                 
         
       </header>
